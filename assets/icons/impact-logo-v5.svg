@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <!-- Static ripple circles -->
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#4A90E2" stroke-width="2" opacity="0.2"/>
+  <circle cx="60" cy="60" r="40" fill="none" stroke="#4A90E2" stroke-width="2" opacity="0.3"/>
+  <circle cx="60" cy="60" r="30" fill="none" stroke="#4A90E2" stroke-width="2" opacity="0.4"/>
+  
+  <!-- Central wave symbol -->
+  <path d="M35 60 Q47.5 50, 60 60 Q72.5 70, 85 60" 
+        fill="none" 
+        stroke="#4A90E2" 
+        stroke-width="4"
+        stroke-linecap="round"/>
+  
+  <!-- Text "IMPACT" -->
+  <text x="130" y="75" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#333333">
+    IMPACT
+  </text>
+</svg>
